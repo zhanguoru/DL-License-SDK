@@ -1,5 +1,10 @@
 # Protect your Python software with one line of code.
+
+```python
+from License_Core.protect import protect
+
 protect(APP_API_KEY)
+```
 
 # Quick Start
 
