@@ -1,3 +1,6 @@
+# Protect your Python software with one line of code.
+protect(APP_API_KEY)
+
 # Quick Start
 
 ## Install Dependencies
